@@ -8,7 +8,7 @@ public class Main {
 		int[] array = new int[5];
 		
 		array[0] = 10;
-		array[1] = 14;
+		array[1] = 8;
 		array[2] = 12;
 		array[3] = 9;
 		array[4] = 3;

@@ -9,7 +9,7 @@ public class InsertionSort {
 			return array;
 		}
 		
-		for (int j=2;j<array.length;j++){
+		for (int j=1;j<array.length;j++){
 			int key = array[j];
 			int i = j-1;
 			while(i>=0 && array[i]>key)
